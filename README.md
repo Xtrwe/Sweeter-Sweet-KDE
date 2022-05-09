@@ -7,3 +7,11 @@ and then you'll have to activate it in the Plasma Settings Panel.
 
 Thanks to the other Linuxers,
 have a great day/night.
+
+
+
+Based on following Plasma Styles:              
+Sweet KDE 
+Relax
+
+also try them ;)
