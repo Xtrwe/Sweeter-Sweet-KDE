@@ -5,5 +5,5 @@ For anyone who wants to commit changes i'll check the commit as fast as possible
 Thanks to the other Linuxers,
 have a great day/night.
 
-Btw, you have to put the theme at /home/user/.local/share/desktoptheme<------Installation
+Btw, you have to put the theme at /home/user/.local/share/desktoptheme <------Installation
 and then you'll have to activate it in the Plasma Settings Panel.
