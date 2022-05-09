@@ -11,7 +11,7 @@ have a great day/night.
 
 
 Based on following Plasma Styles:              
-Sweet KDE and
+Sweet KDE, Afterglow and
 Relax
 
 also try them ;)
